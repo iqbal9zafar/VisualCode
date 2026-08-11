@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "MyNew";
+    src: url("./RubikSprayPaint-Regular.ttf");
+}
+p{
+    background-color: blanchedalmond;
+    font-family: MyNew, Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-shadow: 5px 5px 5px green;
+    
+}
