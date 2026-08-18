@@ -1,0 +1,21 @@
+td.description {
+min-width: 450px;
+max-width: 650px;
+text-align: left;
+padding: 5px;
+margin: 0px;
+}
+
+ 
+p.one {border-style: solid;}
+p.two {border-style: dotted;}
+p.three {border-style: dashed;}
+p.four {border-style: double;}
+p.five {border-style: groove;}
+p.six {border-style: ridge;}
+p.seven {border-style: inset;}
+p.eight {border-style: outset;}
+
+ol {
+    align-items: end;
+list-style-type: square;}
